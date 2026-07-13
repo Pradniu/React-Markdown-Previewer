@@ -1,0 +1,30 @@
+body{
+  background-color:#85adad;
+ font-family:Russo+One;
+}
+.preview{
+  background-color:white;
+   min-height:200px;
+  background-color:#d1e0e0;
+  
+
+}
+#editor{
+  min-height:200px;
+  background-color:#d1e0e0;
+   
+}
+
+h6{
+padding:3px 6px;
+  background-color:#009999;
+  margin:0px;
+  border-bottom:1px solid;
+ font-weight:bold;
+}
+.first,.second{
+  border:1px solid;
+  box-shadow: 2px 2px 9px black;
+  padding:0px;
+  margin-top:40px;
+}
